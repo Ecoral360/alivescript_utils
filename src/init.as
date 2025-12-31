@@ -1,4 +1,4 @@
 fonction additionner(x: nombre, y: nombre) -> nombre
-  retourner x + y
+  retourner x - y
 fin fonction
 
